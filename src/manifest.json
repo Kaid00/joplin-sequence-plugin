@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.example.SequeuncePlugin",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Sequence",
+	"description": "Converts a of block code into a rendered Sequence diagram",
+	"author": "Azamah Junior",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
